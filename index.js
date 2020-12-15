@@ -12,4 +12,10 @@ then git push -U origin master
 to make your repo, go to github, hit the plus sign, and name the repo as long as its green , and after that you click create repository
 quick setup allows you to quickly link your local system, and online repo
 
+when you have a new file, that you want to push, or additions to the code
+you go to git add. 
+git commit -m " whatever you did , changed etc "
+git push then pushes it to the repo
+git log shows all the commits made to this repo 
+to clear the cache git rm -r --cached . 
 */
